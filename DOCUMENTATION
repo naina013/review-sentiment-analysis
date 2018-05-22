@@ -1,0 +1,35 @@
+
+
+
+OBJECTIVE
+
+To analyze whether the product on the e-commerce websites like amazon,flipkart,etc. is good, bad or neutral on the basis of sentiments 
+of the reviews given by their verified users.
+
+
+INTRODUCTION
+
+Abstract— Websites have emerged as one of the platforms to raise users’ opinions and influence the way any business is commercialized.
+Opinion of people matters a lot to analyze how the propagation of information impacts the lives in a large-scale network. Sentiment 
+analysis of the reviews determine the polarity and inclination of vast population towards specific item or entity. These days, the 
+applications of such analysis can be easily observed during public elections, movie promotions, brand endorsements and many other 
+fields also. In this project, we exploited the 'sklearn' and 'nltk' libraries of python to extract reviews and perform sentiment 
+analysis. The primary aim is to provide a method for analyzing sentiment score for all the products available on the website. 
+This paper reports on the design of a sentiment analysis, extracting vast number of reviews. Results classify user's perception via 
+reviews into positive,negative and neutral. 
+
+
+FUNCTIONALITIES
+
+⦁	Product name entered
+⦁	Percentage of positive and negative review appears
+⦁	Overall sentiment analysis report
+
+
+SOFTWARES
+
+⦁	python-3.6.5
+⦁	PhantomJS
+
+ 
+ 
